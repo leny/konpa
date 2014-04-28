@@ -102,7 +102,5 @@ Si vous n'êtes d'accord avec rien et que vous pensez que vous feriez 100x mieux
 
 * * *
 
-**Konpa**, 2012-2014
-
-[![Creative Commons Attribution 4.0](http://mirrors.creativecommons.org/presskit/buttons/80x15/svg/by.svg)](http://creativecommons.org/licenses/by/4.0/)
+[![Creative Commons Attribution 4.0](http://mirrors.creativecommons.org/presskit/buttons/80x15/svg/by.svg)](http://creativecommons.org/licenses/by/4.0/) [**Konpa**](https://github.com/leny/konpa), 2014
 

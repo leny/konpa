@@ -53,3 +53,7 @@ Prennez le temps d'apprendre à utiliser la ligne de commande. Savoir comment ut
 Ce sont des actions simples et rapides via le terminal et la ligne de commande, qui vous feront gagner beaucoup de temps.
 
 Et mine de rien, c'est un atout sur un cv.
+
+* * *
+
+[![Creative Commons Attribution 4.0](http://mirrors.creativecommons.org/presskit/buttons/80x15/svg/by.svg)](http://creativecommons.org/licenses/by/4.0/) [**Konpa**](https://github.com/leny/konpa), 2014
