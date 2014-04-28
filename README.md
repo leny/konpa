@@ -16,7 +16,7 @@ Depuis quelques années, je donne le cours de **RIA** (*Applications Internet Ri
 
 Dans le cadre de mes cours, nous faisons essentiellement du `javascript`, avec, depuis cette année, du [node.js](http://github.com/leny/ecto).
 
-Lors de mes cours, nous abordons souvent des *sujets périphériques* au développement web, comme les méthodologies de travail, la recherche d'emploi, etc... tout ces sujets sont important, mais, malheureusement, ne rentrent pas dans le cadre d'un cours qui ne dure qu'une quinzaine de semaine.
+Lors de mes cours, nous abordons souvent des *sujets périphériques* au développement web, comme les méthodologies de travail, la recherche d'emploi, etc... tout ces sujets sont importants, mais, malheureusement, ne rentrent pas dans le cadre d'un cours qui ne dure qu'une quinzaine de semaine.
 
 C'est ainsi qu'au fil des mois, j'ai commencé à noter dans un coin ce qui devait être un *mini-livre*, que je comptais donner à mes étudiants en fin d'année, juste avant qu'ils ne recoivent leur diplôme.
 
