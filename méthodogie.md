@@ -21,7 +21,12 @@ Faites comme bon vous semble, mais faites en sorte de ne jamais perdre de temps 
 
 * * *
 
-### Méthodes Agiles
+### Méthodes de travail
+
+On pourrait presque dire qu'il existe autant de méthodes de travail que de travailleurs, et dans un sens, c'est vrai.  
+Mais avant d'arriver à trouver *votre* méthode de travail idéale, je vous conseille d'en essayer un maximum, afin d'arriver à créer la vôtre, qui sera souvent un dérivation plus ou moins grande d'une des méthodes citées plus bas.
+
+#### Méthodes Agiles
 
 Depuis quelques années, on parle énormément des méthodes agiles, de l'XP (eXtreme Programming), etc…
 
@@ -33,16 +38,33 @@ Le plus important à propos des méthodes agiles, c'est de bien comprendre que s
 
 Pour ma part, après quelques adaptations, je travaille en suivant une forme dérivée de la méthode **Scrum**, que j'ai eu à suivre lorsque je travaillais dans en équipe sur un projet de jeu vidéo.
 
-#### Scrum
+##### Scrum
 
 `TODO`
 
-* * *
-
-### Pomodoro
+#### Pomodoro
 
 [**Pomodoro**](http://pomodorotechnique.com) est une méthode de gestion du temps, qui est complémentaire aux autres méthodes de gestion de projet.
 
 Le principe de base de Pomodoro est qu'il est difficile pour quelqu'un de se concentrer des heures d'affilées sur une tâche, c'est pourquoi la méthode préconise de diviser ses tâches en sous-tâches les plus petites possibles, puis de travailler sous formes de périodes : 25 minutes de travail sans distraction aucune, suivie de 5 minutes de pause, le tout trois ou quatre fois avant une plus longue pause d'une demi-heure.
 
 La méthode Pomodoro est très pratique et donne de véritables résultats, mais elle doit être adaptée à votre façon de travailler : personnellement, je préfère des périodes de 20 minutes avec des pauses de 2 minutes.
+
+#### Kanban
+
+`TODO`
+
+#### MoSCow
+
+`TODO`
+
+* * *
+
+### Le *Workflow*
+
+`TODO`
+
+* * *
+
+
+[![Creative Commons Attribution 4.0](http://mirrors.creativecommons.org/presskit/buttons/80x15/svg/by.svg)](http://creativecommons.org/licenses/by/4.0/) [**Konpa**](https://github.com/leny/konpa), 2014
