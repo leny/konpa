@@ -72,9 +72,29 @@ en *Duc de* guise d'aider mon prochain, ma B.A., *youkaïdi*, *youkaïda*, tout 
 
 * * *
 
+## Guide de lecture
+
+Comme je l'ai dit au début, les sections n'ont pas d'ordre logique, vous pouvez les lire dans l'ordre que vous voulez.  
+Toutefois, je vous conseille de les lire dans cet ordre : 
+
+1. Être développeur web
+2. Méthodologie
+3. Bonnes pratiques & conventions
+4. Versionning
+5. Évoluer
+6. Trouver un job
+7. Les clients persos
+
+Mais bon, faites comme vous voulez. Juste que si vous commencez par la fin, vous saurez tout de suite *qui est l'assassin*...
+
+
+* * *
+
 ### Une dernière chose...
 
 Maintenant que ce guide est publié sous la forme d'un **repository github**, il est ouvert aux corrections, aux *Pull Request* et toutes ces choses formidables qui font de github une des meilleures choses arrivées au web ces dernières années.
+
+> **Note:** au fil du texte, vous verrez des `TODO`. Revenez dans quelques temps pour voir si j'ai avancé ;)
 
 Donc si vous voulez y mettre votre grain de sel, faites-le.  
 Si vous voulez *forker* mon travail pour y apporter votre touche ou l'utiliser comme base pour autre chose, faites-le.  
