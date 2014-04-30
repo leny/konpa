@@ -1,0 +1,33 @@
+{
+    "name": "konpa",
+    "version": "0.1.1",
+    "description": "Trucs & astuces à l'usage des jeunes développeurs web",
+    "private": true,
+    "homepage": "http://leny.github.io/konpa/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/leny/konpa.git"
+    },
+    "author": {
+        "name": "Leny",
+        "email": "info@flatland.be",
+        "url": "http://leny.me"
+    },
+    "licenses": [
+        {
+            "type": "Creative Commons BY 4.0",
+            "url": "http://creativecommons.org/licenses/by/4.0/"
+        }
+    ],
+    "dependencies": {},
+    "devDependencies": {
+        "grunt": "~0.4",
+        "grunt-gitbook": "~0.3",
+        "grunt-gh-pages": "~0.9",
+        "grunt-contrib-clean": "~0.5",
+        "grunt-http-server": "~0.0"
+    },
+    "peerDependencies": {
+        "grunt": "~0.4"
+    }
+}
