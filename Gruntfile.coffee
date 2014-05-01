@@ -11,9 +11,9 @@ module.exports = ( grunt ) ->
         "gitbook":
             development:
                 input: "./"
-                title: "Learn Git"
-                description: "The entire Pro Git book."
-                github: "GitbookIO/git"
+                title: "konpa"
+                description: "Trucs & astuces à l'usage des jeunes développeurs web"
+                github: "leny/konpa"
         "gh-pages":
             options:
                 base: "_book"
