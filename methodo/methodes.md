@@ -15,7 +15,7 @@ Le plus important à propos des méthodes agiles, c'est de bien comprendre que s
 
 Pour ma part, après quelques adaptations, je travaille en suivant une forme dérivée de la méthode **Scrum**, que j'ai eu à suivre lorsque je travaillais dans en équipe sur un projet de jeu vidéo.
 
-## Scrum
+### Scrum
 
 `TODO`
 

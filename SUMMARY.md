@@ -17,6 +17,7 @@ Toutefois, je vous conseille de les lire dans cet ordre :
 * [Bonnes pratiques & conventions](bonnes-pratiques/intro.md)
     * [Conventions de codage](bonnes-pratiques/conventions.md)
     * [Les acro-principes](bonnes-pratiques/acro-principes.md)
+    * [Méthodes de travail](bonnes-pratiques/methodes.md)
     * [Un debug efficace](bonnes-pratiques/debug-efficace.md)
     * [De l'importance des bonnes pratiques](bonnes-pratiques/importance-des-bonnes-pratiques.md)
 * [Le Versionning](versionning/intro.md)
