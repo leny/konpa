@@ -9,7 +9,7 @@ module.exports = ( grunt ) ->
 
     grunt.initConfig
         "gitbook":
-            development:
+            konpa:
                 input: "./"
                 title: "konpa"
                 description: "Trucs & astuces à l'usage des jeunes développeurs web"
