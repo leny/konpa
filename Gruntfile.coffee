@@ -39,5 +39,6 @@ module.exports = ( grunt ) ->
         "gitbook"
         "gh-pages"
         "clean"
+    ]
 
     grunt.registerTask "default", "gitbook"
