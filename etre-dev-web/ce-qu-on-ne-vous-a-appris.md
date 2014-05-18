@@ -25,3 +25,32 @@ Prennez le temps d'apprendre à utiliser la ligne de commande. Savoir comment ut
 Ce sont des actions simples et rapides via le terminal et la ligne de commande, qui vous feront gagner beaucoup de temps.
 
 Et mine de rien, c'est un atout sur un cv.
+
+#### Apprendre à chercher sur internet
+
+> Il y a 10 types de gens sur terre : ceux qui comprennent le binaire, et les autres.
+
+C'est un peu le même principe : il y a deux grandes classes de gens sur internet : ceux qui trouvent et ceux qui cherchent.
+
+Malheureusement, il y a peu de gens qui trouvent, et c'est pas la faute du net, c'est la faute des gens : apprenez à chercher sur Internet. Apprenez à taper les bons mots-clés dans Google, apprenez à chercher sur [StackOverflow](http://stackoverflow.com), à écumer les forums, etc...
+
+Régulièrement, en tant que prof ou en tant qu'ami, on me contacte sur facebook ou par email pour un problème technique. Le fait est que, souvent, je ne connais pas forcément la réponse à ce problème précis (soit pasque je n'y ai jamais été confronté, soit pasque, simplement, je l'ai oublié).  
+Du coup, je tape quelques mots-clés dans google, et je trouve la solution, puis je la donne au contact. Qui aurait pu chercher lui-même, mais "qui n'a rien trouvé". Et c'est usant. Ne vous découragez pas : chercher efficacement, ça s'apprend. Et c'est probablement une des facultés les plus appréciables au monde : l'autonomie.
+
+Je peux trouver la solution à la plupart de mes problèmes en cherchant seul. Et du coup, quand je suis bloqué, c'est que le problème est suffisament grave pour que je me permette de déranger une *personne resource*.
+
+**Apprenez à chercher.**
+
+Ah oui, on en a déjà parlé un peu plus haut : apprenez à chercher *en anglais*.
+
+#### Apprendre la dactylo
+
+Vous allez passer votre vie professionnelle à taper sur un clavier, c'est un fait.  
+Simplifiez-vous la vie et soyez plus performants en apprenant la dactylographie.
+
+À notre époque, ça devrait être une matière qu'on enseigne en primaire, mais bon...
+
+J'ai appris la dactylo à 13ans, dans le cadre d'un cours de *journalisme* (on écrivait le journal de l'école, rien de bien folichon) : autant vous le dire tout de suite, c'était chiant à apprendre (même si maintenant y a des méthodes plus ludiques).  
+Mais ça a changé ma vie : moins d'aller-retour clavier-écran (et donc moins de mal du nuque), plus grande efficacité, frappe plus rapide... que des avantages.
+
+Le site [10fastfingers](http://10fastfingers.com/typing-test/french) est une super ressource pour s'entraîner : testez votre vitesse actuelle, puis apprenez à aller de plus en plus vite. Visez une vitesse de 50 à 70 mpm (mots par minute).
