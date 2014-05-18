@@ -1,5 +1,5 @@
 CACHE MANIFEST
-# Revision 1400420545081
+# Revision 1400420633649
 
 CACHE:
 etre-dev-web/ce-qu-on-ne-vous-a-appris.html
@@ -41,8 +41,8 @@ methodo/intro.html
 methodo/methodes.html
 methodo/organisation.html
 methodo/workflow.html
-versionning/intro.html
 versionning/centralise-ou-decentralise.html
+versionning/intro.html
 versionning/ou-heberger-ses-depots.html
 versionning/ouais-mais-je-bosse-tout-seul.html
 versionning/petit-conseil-organisation.html
