@@ -51,6 +51,6 @@ Simplifiez-vous la vie et soyez plus performants en apprenant la dactylographie.
 À notre époque, ça devrait être une matière qu'on enseigne en primaire, mais bon...
 
 J'ai appris la dactylo à 13ans, dans le cadre d'un cours de *journalisme* (on écrivait le journal de l'école, rien de bien folichon) : autant vous le dire tout de suite, c'était chiant à apprendre (même si maintenant y a des méthodes plus ludiques).  
-Mais ça a changé ma vie : moins d'aller-retour clavier-écran (et donc moins de mal du nuque), plus grande efficacité, frappe plus rapide... que des avantages.
+Mais ça a changé ma vie : moins d'aller-retour clavier-écran (et donc moins de maux de nuque), plus grande efficacité, frappe plus rapide... que des avantages.
 
 Le site [10fastfingers](http://10fastfingers.com/typing-test/french) est une super ressource pour s'entraîner : testez votre vitesse actuelle, puis apprenez à aller de plus en plus vite. Visez une vitesse de 50 à 70 mpm (mots par minute).
