@@ -42,7 +42,7 @@
 
 
         
-    <div class="book" data-github="leny/konpa" data-level="3.3" data-basepath=".." data-revision="1400420633649">
+    <div class="book" data-github="leny/konpa" data-level="3.3" data-basepath=".." data-revision="1400891196081">
     <div class="book-header">
     <!-- Actions Left -->
     
@@ -608,7 +608,33 @@
                     <section class="normal" id="section-gitbook_43">
                     
                         <h1 id="le-workflow-">Le <em>Workflow</em></h1>
-<p><code>TODO</code></p>
+<p>Le <em>Workflow</em>, ou <em>flux de travail</em> (mais c&#39;est moche), est <em>la représentation d&#39;une suite de tâches ou opérations effectuées par une personne, un groupe de personnes, un organisme, etc...</em> (merci Wikipédia).</p>
+<p>Dans le cadre d&#39;un développeur web, le workflow désigne par extention (et de manière un peu approximative) l&#39;ensemble de votre système de travail : logiciels, outils, méthodes, etc...</p>
+<p>Autant vous le dire de suite, <strong>le workflow ultime n&#39;existe pas</strong>. Votre workflow va évoluer avec vous, et vos outils d&#39;aujourd&#39;hui ne seront à coup sûr plus ceux de demain, soit pasque vous avez trouvé mieux, ou plus adapté, soit pasque, comme tout ce qui touche au web, c&#39;est vite devenu <em>obsolète</em> et remplacé par un bien meilleur outil.</p>
+<h2 id="l-diteur-de-texte-ide">L&#39;éditeur de texte / IDE</h2>
+<p>S&#39;il est bien un élément central d&#39;un workflow de développeur, c&#39;est bien son éditeur de texte ou son IDE. Et comme pour tous les choix du genre, le web se divise en autant de clans partisans d&#39;une solution ou l&#39;autre, se vouant une haine absolue et inutile les un les autres.</p>
+<p>Soyons clairs une bonne fois pour toute : le meilleur éditeur ou IDE, c&#39;est <strong>celui qui vous convient à vous</strong>. Il changera régulièrement au long de votre carrière, et ce sera votre meilleur ami. Deux petites remarques importantes à propos de votre éditeur ou IDE :</p>
+<h3 id="gratuit-ou-payant-">Gratuit ou payant ?</h3>
+<p>Souvent, on entend des gens râler sur les prix des logiciels professionels, préférant parfois (<em>souvent</em>) des alternatives gratuites parfois un peu moins performantes, et regrettant le coût d&#39;un éditeur qui nous paraîtrait idéal.<br>À ce propos, j&#39;ai une règle simple qui me permet de me rendre compte du réel coût d&#39;un logiciel.</p>
+<p>La plupart des outils ont une période d&#39;essai plus ou moins longue, vous permettant de vous faire une idée sur ces fonctionnalités. Si vous voulez tester un nouvel outil, commencez par télécharger cette démo et allez-y, utilisez-le au maximum. En fin de démo, si l&#39;outil vous a convaincu mais que vous hésitez encore sur le prix, faites ce simple calcul : divisez le prix du logiciel par votre coût horaire. Vous obtiendrez le nombre d&#39;heures que vous auriez à travailler pour rembourser votre achat : si, sur le temps de la démo, vous vous rendez compte que cet outil vous a déjà fait économiser ce temps par son efficacité, alors, vous n&#39;avez pas à hésiter. Et sinon, c&#39;est à vous de vous poser la question : est-ce que cet outil vous permettra d&#39;économiser rapidement ce nombre d&#39;heures, et donc, vaut-il le coup d&#39;être acheté ?</p>
+<p>Pour être sincère avec vous, la plupart des outils payants qui m&#39;ont semblé utiles, mais cher, ont quasiment tous finis par être achetés au terme de leur période d&#39;essai, voire parfois avant.</p>
+<h3 id="-apprenez-en-tirer-le-maximum"><strong>Apprenez</strong> à en tirer le maximum</h3>
+<p>Lorsque vous adoptez un nouvel outil (et plus particulièrement un éditeur), une fois la période de découverte/adaptation finie, faites en sorte d&#39;en tirer le maximum : lisez des articles, regarder des tutos vidéos sur l&#39;outil.<br>Rentabilisez votre achat (si le programme était payant).</p>
+<p>La plupart des outils recellent de fonctionnalités <em>plus ou moins</em> bien cachées qui les rendent encore plus efficaces, et, par extension, vous rendront bien plus encore efficace. Ne passez pas à côté de ça.</p>
+<hr>
+<p>Dernière chose concernant l&#39;éditeur, et je me répète, <em>on s&#39;en cogne, de l&#39;avis des autres</em> : si un collègue, ou un (<em>mauvais</em>) ami vous dit &quot;<em>ouais, mais t&#39;es con, t&#39;utilises XXX, les <strong>vrais</strong> dev utilisent YYY</em>&quot;, ben changez de collègue/d&#39;ami. Si vous êtes à l&#39;aise avec votre éditeur (ou tout autre outil), et qu&#39;il vous permet de faire le même travail aussi bien, alors la remarque est déplacée, idiote et vraiment conne.<br>Ceci dit, prenez tout de même note du nom du programme et jetez-y un oeil, ça ne mange pas de pain (j&#39;y reviens un peu plus loin).</p>
+<h2 id="l-automation">L&#39;automation</h2>
+<p>C&#39;est ici qu&#39;on va pouvoir ressortir un petit aphorisme (<em>ouah, tavu, je parle bien</em>) qu&#39;on répète souvent : </p>
+<blockquote>
+<p>Un bon développeur est un développeur fainéant.</p>
+</blockquote>
+<p>Aphorisme (<em>double combo</em>) qui ne doit pas être mal interprêté : en tant que développeur web, vous allez souvent être amené à répèter sans cesse les mêmes tâches un peu ingrates : compiler des fichiers less/sass/stylus, passer des fichiers au <code>minifier</code>, vérifier la syntaxe de fichiers via un <code>linter</code>... toutes des tâches utiles mais globalement chiantes à répèter encore et encore.</p>
+<p>Un bon développeur va donc intégrer à son workflow un système pour automatiser ces tâches répétitives, et pouvoir consacrer un maximum de son temps aux tâches plus complexes qui nécéssitent tout son talent : faire du code.</p>
+<p>Il existe quantité d&#39;outils d&#39;automation destinés aux développeurs web, je vous invite donc à jeter un oeil à <a href="https://incident57.com/codekit/" target="_blank">Codekit</a>, <a href="http://alphapixels.com/prepros/" target="_blank">Prepros</a>, <a href="http://gruntjs.com" target="_blank">Grunt</a>, <a href="http://gulpjs.com" target="_blank">Gulp</a>, etc...</p>
+<h2 id="faire-voluer-votre-workflow">Faire évoluer votre workflow</h2>
+<p>Comme je l&#39;ai dit plus haut, votre workflow évoluera avec vous toute votre vie, et c&#39;est important de faire en sorte que ce soit le cas : tenez-vous au courant des nouveaux outils, testez-les, faites-vous en un idée avant de les adopter, ou non, l&#39;important étant que ça <em>vous</em> soit utile.</p>
+<p>À ce propos, n&#39;hésitez jamais à voir ce que font les autres : un workflow a beau être personnel, on découvre souvent de bonnes choses en regardant comment d&#39;autres travailleurs résolvent les mêmes tâches que nous, avec leur choix d&#39;outils.</p>
+<p>Pour cela, le site <a href="http://workspiration.org" target="_blank">workspiration</a> est un véritable trésor.</p>
 
                     
                     </section>
