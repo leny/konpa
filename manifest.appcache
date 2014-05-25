@@ -1,5 +1,5 @@
 CACHE MANIFEST
-# Revision 1400891196082
+# Revision 1401058662536
 
 CACHE:
 etre-dev-web/ce-qu-on-ne-vous-a-appris.html
@@ -15,8 +15,8 @@ bonnes-pratiques/methodes.html
 clients/facturation.html
 clients/gestion.html
 clients/hebergement.html
-clients/intro.html
 clients/mise-en-ligne.html
+clients/intro.html
 clients/noms-de-domaine.html
 clients/sources.html
 clients/travailler-en-slip-oui-mais.html
