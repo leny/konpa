@@ -4,3 +4,5 @@
 Les tarifs sont très intéressants (souvent gratuits pour des projets open-source) et vous bénéficiez d'une infrastructure performante.
 
 Si vous avez tendance à la paranoïa et que vous avez un serveur dédié, n'hésitez pas à tenter l'aventure et d'installer vos propres serveurs de versionning. Vous y apprendrez pas mal de choses, nous en reparlerons.
+
+**Note:** si vous optez pour l'auto-hébergé, jetez un oeil à [gitlab](https://www.gitlab.com), une sorte de clône open-source de github, à installer sur votre serveur. Testé et approuvé :)
