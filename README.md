@@ -4,8 +4,8 @@
 
 * * *
 
-> **Note:** this book was made for my students at HEPL from Liège, Belgium.  
-> From this point, all the book will be in french.  
+> **Note:** this book was made for my students at HEPL from Liège, Belgium.
+> From this point, all the book will be in french.
 > I'm not comfortable enough to write plain text in english.
 
 * * *
@@ -16,13 +16,13 @@ Depuis quelques années, je donne le cours de **RIA** (*Applications Internet Ri
 
 Dans le cadre de mes cours, nous faisons essentiellement du `javascript`, avec, depuis cette année, du [node.js](http://github.com/leny/ecto).
 
-Lors de mes cours, nous abordons souvent des *sujets périphériques* au développement web, comme les méthodologies de travail, la recherche d'emploi, etc... tout ces sujets sont importants, mais, malheureusement, ne rentrent pas dans le cadre d'un cours qui ne dure qu'une quinzaine de semaine.
+Lors de mes cours, nous abordons souvent des *sujets périphériques* au développement web, comme les méthodologies de travail, la recherche d'emploi, etc... tout ces sujets sont importants, mais, malheureusement, ne rentrent pas dans le cadre d'un cours qui ne dure qu'une quinzaine de semaines.
 
 C'est ainsi qu'au fil des mois, j'ai commencé à noter dans un coin ce qui devait être un *mini-livre*, que je comptais donner à mes étudiants en fin d'année, juste avant qu'ils ne recoivent leur diplôme.
 
 Le temps n'aidant pas, ce guide évolue à la vitesse d'un *pokémon* malade, et, à ce train-là, je vais arriver à la fin de ma seconde année de cours sans pouvoir le terminer.
 
-J'ai donc décidé de transformer mon manuscrit en **repository github**, afin de le faire évoluer plus facilement, et surtout permettre sa lecture partielle à mes étudiants.
+J'ai donc décidé de transformer mon manuscrit en **gitbook**, afin de le faire évoluer plus facilement, et surtout permettre sa lecture partielle à mes étudiants.
 
 * * *
 

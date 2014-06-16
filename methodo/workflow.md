@@ -14,7 +14,7 @@ Soyons clairs une bonne fois pour toute : le meilleur éditeur ou IDE, c'est **c
 
 ### Gratuit ou payant ?
 
-Souvent, on entend des gens râler sur les prix des logiciels professionels, préférant parfois (*souvent*) des alternatives gratuites parfois un peu moins performantes, et regrettant le coût d'un éditeur qui nous paraîtrait idéal.  
+Souvent, on entend des gens râler sur les prix des logiciels professionels, préférant souvent des alternatives gratuites parfois un peu moins performantes, et regrettant le coût d'un éditeur qui leur paraîtrait idéal.
 À ce propos, j'ai une règle simple qui me permet de me rendre compte du réel coût d'un logiciel.
 
 La plupart des outils ont une période d'essai plus ou moins longue, vous permettant de vous faire une idée sur ces fonctionnalités. Si vous voulez tester un nouvel outil, commencez par télécharger cette démo et allez-y, utilisez-le au maximum. En fin de démo, si l'outil vous a convaincu mais que vous hésitez encore sur le prix, faites ce simple calcul : divisez le prix du logiciel par votre coût horaire. Vous obtiendrez le nombre d'heures que vous auriez à travailler pour rembourser votre achat : si, sur le temps de la démo, vous vous rendez compte que cet outil vous a déjà fait économiser ce temps par son efficacité, alors, vous n'avez pas à hésiter. Et sinon, c'est à vous de vous poser la question : est-ce que cet outil vous permettra d'économiser rapidement ce nombre d'heures, et donc, vaut-il le coup d'être acheté ?
@@ -23,19 +23,19 @@ Pour être sincère avec vous, la plupart des outils payants qui m'ont semblé u
 
 ### **Apprenez** à en tirer le maximum
 
-Lorsque vous adoptez un nouvel outil (et plus particulièrement un éditeur), une fois la période de découverte/adaptation finie, faites en sorte d'en tirer le maximum : lisez des articles, regarder des tutos vidéos sur l'outil.  
+Lorsque vous adoptez un nouvel outil (et plus particulièrement un éditeur), une fois la période de découverte/adaptation finie, faites en sorte d'en tirer le maximum : lisez des articles, regarder des tutos vidéos sur l'outil.
 Rentabilisez votre achat (si le programme était payant).
 
-La plupart des outils recellent de fonctionnalités *plus ou moins* bien cachées qui les rendent encore plus efficaces, et, par extension, vous rendront bien plus encore efficace. Ne passez pas à côté de ça.
+La plupart des outils recellent de fonctionnalités *plus ou moins* bien cachées qui les rendent encore plus efficaces, et, par extension, vous rendront bien plus efficace encore. Ne passez pas à côté de ça.
 
 * * *
 
-Dernière chose concernant l'éditeur, et je me répète, *on s'en cogne, de l'avis des autres* : si un collègue, ou un (*mauvais*) ami vous dit "*ouais, mais t'es con, t'utilises XXX, les **vrais** dev utilisent YYY*", ben changez de collègue/d'ami. Si vous êtes à l'aise avec votre éditeur (ou tout autre outil), et qu'il vous permet de faire le même travail aussi bien, alors la remarque est déplacée, idiote et vraiment conne.  
+Dernière chose concernant votre éditeur de texte, et je me répète : *on s'en cogne, de l'avis des autres* : si un collègue, ou un (*mauvais*) ami vous dit "*ouais, mais t'es con, t'utilises XXX, les **vrais** dev utilisent YYY*", ben changez de collègue/d'ami. Si vous êtes à l'aise avec votre éditeur (ou tout autre outil), et qu'il vous permet de faire le même travail aussi bien, alors la remarque est déplacée, idiote et vraiment conne.
 Ceci dit, prenez tout de même note du nom du programme et jetez-y un oeil, ça ne mange pas de pain (j'y reviens un peu plus loin).
 
 ## L'automation
 
-C'est ici qu'on va pouvoir ressortir un petit aphorisme (*ouah, tavu, je parle bien*) qu'on répète souvent : 
+C'est ici qu'on va pouvoir ressortir un petit aphorisme (*ouah, tavu, je parle bien*) qu'on répète souvent :
 
 > Un bon développeur est un développeur fainéant.
 

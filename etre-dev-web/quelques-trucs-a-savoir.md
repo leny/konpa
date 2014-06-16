@@ -2,7 +2,7 @@
 
 Quelques petits trucs à savoir, ou à faire savoir à votre entourage ; ou comment tordre le cou à certains préjugés tenaces.
 
-1. **C'est un vrai métier, pas un truc de glandeur.** C'est pas pasque vous êtes à longueur de journée derrière votre ordinateur que vous ne travaillez pas ; de fait, c'est l'inverse. Progressivement, ça rentre dans les moeurs, tant mieux pour vous. Ça l'était beaucoup moins quand j'ai commencé. ;)
+1. **C'est un vrai métier, pas un truc de glandeur.** C'est pas pasque vous êtes à longueur de journée derrière votre ordinateur que vous ne travaillez pas : en fait, c'est l'inverse. Progressivement, ça rentre dans les moeurs et tant mieux pour vous. Ça l'était beaucoup moins quand j'ai commencé. ;)
 
 2. **Être curieux est le seul vrai prérequis.** Être développeur web (ou développeur tout court), c'est ne jamais arrêter d'apprendre, remettre en question ses connaissances, courir après les nouveautés. Si vous estimez que vos connaissances actuelles vous suffisent… ben ça va pas suffire longtemps.
 
