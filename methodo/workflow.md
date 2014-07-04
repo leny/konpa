@@ -45,6 +45,25 @@ Un bon développeur va donc intégrer à son workflow un système pour automatis
 
 Il existe quantité d'outils d'automation destinés aux développeurs web, je vous invite donc à jeter un oeil à [Codekit](https://incident57.com/codekit/), [Prepros](http://alphapixels.com/prepros/), [Grunt](http://gruntjs.com), [Gulp](http://gulpjs.com), etc...
 
+## Serveur local
+
+Étant donné que vous êtes développeur web et/ou intégrateur, vous devez aussi intégrer à votre workflow une solution pour tester vos sites *localement* (non, on ne mets pas une modification en ligne "*juste pour voir*").
+
+### Solution *tout-en-un*
+
+Aujourd'hui un peu démodés, les solutions "tout-en-un" comme [wampserver](http://www.wampserver.com), [easyphp](http://www.easyphp.org) ou [mamp](http://www.mamp.info/) font sourire, mais peuvent malgré tout s'avérer pratiques pour tester rapidement une configuration ou un site.
+
+Ceci dit, les outils d'automation comme gulp, grunt et codekit, cités plus haut, permettent de faire la même chose aussi.
+
+### Solution *machines virtuelles*
+
+Avec les avancées de l'informatique, tout le monde peut avoir maintenant à disposition un ordinateur suffisament puissant pour faire tourner une ou plusieurs *machines virtuelles* (abrégées `vm`).
+
+Les avantages à utiliser une machine virtuelle sont nombreux, mais les deux plus importants sont, d'une part, que vous pouvez avoir localement une copie quasi-conforme de la configuration de votre serveur de production ; et d'autre part, si la configuration de votre machine virtuelle est foireuse, vous n'avez qu'à détruire votre *vm*, sans nuire à votre système.
+
+Installer une *vm*, c'est comme installer un serveur (on en reparlera plus loin). Ceci dit, un outil formidable a été crée qui vous permet de créer la vm d'un projet en stockant sa configuration dans un simple fichier texte : [Vagrant](http://www.vagrantup.com).  
+La création/destruction d'une *vm* avec Vagrant est d'une simplicité extrême, et puisque sa configuration tient en une poignée de lignes de texte, vous pouvez facilement vous assurer que tout intervenant au projet pourra travailler dans les mêmes conditions, quelle que soit son système d'exploitation.
+
 ## Faire évoluer votre workflow
 
 Comme je l'ai dit plus haut, votre workflow évoluera avec vous toute votre vie, et c'est important de faire en sorte que ce soit le cas : tenez-vous au courant des nouveaux outils, testez-les, faites-vous en un idée avant de les adopter, ou non, l'important étant que ça *vous* soit utile.
