@@ -19,7 +19,7 @@ L'adage **DRY** est typiquement l'adage à répèter encore et encore (*haha*) a
 Il signifie "*ne te répète pas*", et découle du problème de *redondance de code* : si dans votre code, vous avez plusieurs endroits où vous utilisez le même code, vous devez faire en sorte d'éviter de dupliquer ce code.
 En effet, en ayant à deux (ou plus, malheur) endroits les mêmes bouts de code, en cas de bugs, vous êtes quittes pour vous tapez plusieurs fois le travail, avec ce que ça implique de risques d'erreurs, de copier/coller hasardeux, etc…
 
-Il existe énormément de bons moyens de ne pas se répèter : créer une *fonction*, une *méthode de classe*, tous les moyens sont bons.
+Il existe énormément de bons moyens de ne pas se répèter : créer une *fonction*, une *méthode de classe*, tous les moyens sont bons - dans les limites du raisonnable (rajouter 200 lignes de code pour éviter d'en dupliquer 2... c'est qu'il y a probablement un gros problème de conception dans le projet, pour le coup).
 
 ## YAGNI : You Ain't Gonna Need It
 
