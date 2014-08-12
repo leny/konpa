@@ -54,3 +54,18 @@ J'ai appris la dactylo à 13 ans, dans le cadre d'un cours de *journalisme* (on 
 Mais ça a changé ma vie : moins d'aller-retour clavier-écran (et donc moins de maux de nuque), plus grande efficacité, frappe plus rapide... que des avantages.
 
 Le site [10fastfingers](http://10fastfingers.com/typing-test/french) est une super ressource pour s'entraîner : testez votre vitesse actuelle, puis apprenez à aller de plus en plus vite. Visez une vitesse de 50 à 70 mpm (mots par minute).
+
+#### Ménagez vos poignets, votre dos, vos yeux
+
+Vous allez passer votre vie derrière un écran, je l'ai dit juste avant... et forcément, tôt ou tard, chaque jour, vous allez finir par adopter la position mondialement connue du *cachalot* : affaissé, les fesses au bord de la chaise, le dos tendu, les épaules (ou pire, la nuque) seules reposant sur le haut du dossier.  
+Et les poignets un peu cassés pour taper au clavier tout en restant dans cette position improbable.
+
+Certains physiologistes ont déclaré que le syndrôme du canal carpien et les maux de dos seront les maladies du siècle dans notre société occidentale.  
+Ils ont raison. Aussi chiant que ça puisse paraître, tenez vous droit, ménagez votre corps, vous n'en avez qu'un.  
+Mettez un peu d'argent dans une bonne chaise de bureau. Vous allez passer des jours entiers posé dessus.
+
+Ça va de paire, mais... ménagez vos yeux. La luminosité des écrans est assez violente, et si vous aimez bosser dans l'obscurité, vous allez vous exploser les rétines. Jetez un oeil à [f.lux](https://justgetflux.com/), un petit logiciel gratuit et multi-plateformes qui ajuste les couleurs de l'écran en fonction de l'heure de la journée, afin de reposer vos yeux.
+
+Bon.
+
+Ça, c'est fait, on en parlera plus.
