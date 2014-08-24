@@ -4,7 +4,7 @@ Bien que la plupart des conseils de ce livre puissent s'appliquer à *un peu* to
 
 Faisons rapidement un petit tour des métiers du web, histoire de se rappeller du rôle de chacun. On va essayer d'oublier personne.
 
-**Note:** ces “*rôles*” ne sont pas des carcans invisibles et limitatifs : vous rencontrerez très régulièrement des *webdesigners* qui sont aussi *intégrateurs*, des développeurs *front-end* qui font du *back-end*, et, à vrai dire, un peu toute sortes de combinaisons possibles. Ceci dit, au plus la structure de travail est grande, au plus les rôles sont définis : dans les petites entreprises de deux ou trois personnes, vous trouverez régulièrement un webdesigner qui fait aussi l'intégration et le front-end, et un dev qui fait de tout y compris de la gestion de projets, par exemple.
+**Note:** ces «*rôles*» ne sont pas des carcans invisibles et limitatifs : vous rencontrerez très régulièrement des *webdesigners* qui sont aussi *intégrateurs*, des développeurs *front-end* qui font du *back-end*, et, à vrai dire, un peu toute sortes de combinaisons possibles. Ceci dit, au plus la structure de travail est grande, au plus les rôles sont définis : dans les petites entreprises de deux ou trois personnes, vous trouverez régulièrement un webdesigner qui fait aussi l'intégration et le front-end, et un dev qui fait de tout y compris de la gestion de projets, par exemple.
 
 **Note 2:** oui, je généralise beaucoup dans les description ci-dessous. Je le rapelle, je fais un tour *rapide* des métiers du web.
 
