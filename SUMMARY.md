@@ -8,6 +8,7 @@ Toutefois, je vous conseille de les lire dans cet ordre :
     * [À propos de moi](introduction/a-propos.md)
     * [Une dernière chose...](introduction/derniere-chose.md)
 * [Être développeur web](etre-dev-web/intro.md)
+    * [Les métiers du web](etre-dev-web/les-metiers-du-web.md)
     * [Quelques trucs à savoir (ou faire savoir)](etre-dev-web/quelques-trucs-a-savoir.md)
     * [Ce qu'on ne vous a (peut-être) pas appris en cours...](etre-dev-web/ce-qu-on-ne-vous-a-appris.md)
 * [Méthodologie](methodo/intro.md)
