@@ -43,7 +43,7 @@ Aphorisme *(double combo)* qui ne doit pas être mal interprêté : en tant que
 
 Un bon développeur va donc intégrer à son workflow un système pour automatiser ces tâches répétitives, et pouvoir consacrer un maximum de son temps aux tâches plus complexes qui nécéssitent tout son talent : faire du code.
 
-Il existe quantité d'outils d'automation destinés aux développeurs web, je vous invite donc à jeter un oeil à [CodeKit](https://incident57.com/codekit/), [Prepros](http://alphapixels.com/prepros/), [Grunt](http://gruntjs.com), [Gulp](http://gulpjs.com), etc. voir même un simple [makefile](http://www.sitepoint.com/using-gnu-make-front-end-development-build-tool/) !
+Il existe quantité d'outils d'automation destinés aux développeurs web, je vous invite donc à jeter un oeil à [CodeKit](https://incident57.com/codekit/), [Prepros](http://alphapixels.com/prepros/), [Grunt](http://gruntjs.com), [Gulp](http://gulpjs.com), voire au système des [makefile](http://www.sitepoint.com/using-gnu-make-front-end-development-build-tool/), un peu plus complexe à prendre en main mais terriblement puissant !
 
 ## Serveur local
 
@@ -53,7 +53,7 @@ Il existe quantité d'outils d'automation destinés aux développeurs web, je vo
 
 Aujourd'hui un peu démodés, les solutions « tout-en-un » comme [WampServer](http://www.wampserver.com), [EasyPHP](http://www.easyphp.org) ou [MAMP](http://www.mamp.info/) font sourire, mais peuvent malgré tout s'avérer pratiques pour tester rapidement une configuration ou un site.
 
-Ceci dit, les outils d'automation comme Gulp, Grunt et CodeKit, cités plus haut, permettent de faire la même chose aussi.
+Ceci dit, les outils d'automation comme Gulp, Grunt et CodeKit, cités plus haut, permettent de faire la même chose aussi (dans le cadre de sites statiques).
 
 ### Solution *machines virtuelles*
 

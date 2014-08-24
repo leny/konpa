@@ -21,7 +21,7 @@ Toutefois, je vous conseille de les lire dans cet ordre :
     * [Méthodes de travail](bonnes-pratiques/methodes.md)
     * [Un debug efficace](bonnes-pratiques/debug-efficace.md)
 * [Le versionning](versionning/intro.md)
-    * [Centralisé ou décentralisé ?](versionning/centralise-ou-decentralise.md)
+    * [Centralisés ou décentralisés ?](versionning/centralise-ou-decentralise.md)
     * [Où héberger ses dépôts ?](versionning/ou-heberger-ses-depots.md)
     * [Ouais, mais je bosse tout seul !](versionning/ouais-mais-je-bosse-tout-seul.md)
     * [Un p'tit conseil d'organisation](versionning/petit-conseil-organisation.md)

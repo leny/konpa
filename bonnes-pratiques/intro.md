@@ -1,4 +1,4 @@
-# Bonnes pratiques et conventions
+# Bonnes pratiques & conventions
 
 Lorsque l'ère informatique a débuté, les gens qui ont participé à concevoir toutes ces machines, langages et outils étaient parmis les plus grands mathématiciens de leur temps.
 Des gens rigoureux, précis, dans un monde où il ne devait y avoir aucune imprécision.
