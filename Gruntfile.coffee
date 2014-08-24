@@ -2,6 +2,8 @@ path = require "path"
 
 module.exports = ( grunt ) ->
 
+    pkg = require './package'
+
     grunt.loadNpmTasks "grunt-gitbook"
     grunt.loadNpmTasks "grunt-gh-pages"
     grunt.loadNpmTasks "grunt-contrib-clean"
@@ -11,8 +13,8 @@ module.exports = ( grunt ) ->
         "gitbook":
             konpa:
                 input: "./"
-                title: "konpa"
-                description: "Trucs & astuces à l'usage des jeunes développeurs web"
+                title: pkg.name
+                description: pkg.description
                 github: "leny/konpa"
         "gh-pages":
             options:
