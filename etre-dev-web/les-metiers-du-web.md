@@ -4,7 +4,7 @@ Bien que la plupart des conseils de ce livre puissent s'appliquer à *un peu* to
 
 Faisons rapidement un petit tour des métiers du web, histoire de se rappeller du rôle de chacun. On va essayer d'oublier personne.
 
-**Note:** ces "*rôles*" ne sont pas des carcans invisibles et limitatifs : vous rencontrerez très régulièrement des *webdesigners* qui sont aussi *intégrateurs*, des développeurs *front-end* qui font du *back-end*, et, à vrai dire, un peu toute sortes de combinaisons possibles. Ceci dit, au plus la structure de travail est grande, au plus les rôles sont définis : dans les petites entreprises de deux ou trois personnes, vous trouverez régulièrement un webdesigner qui fait aussi l'intégration et le front-end, et un dev qui fait de tout y compris de la gestion de projets, par exemple.
+**Note:** ces “*rôles*” ne sont pas des carcans invisibles et limitatifs : vous rencontrerez très régulièrement des *webdesigners* qui sont aussi *intégrateurs*, des développeurs *front-end* qui font du *back-end*, et, à vrai dire, un peu toute sortes de combinaisons possibles. Ceci dit, au plus la structure de travail est grande, au plus les rôles sont définis : dans les petites entreprises de deux ou trois personnes, vous trouverez régulièrement un webdesigner qui fait aussi l'intégration et le front-end, et un dev qui fait de tout y compris de la gestion de projets, par exemple.
 
 **Note 2:** oui, je généralise beaucoup dans les description ci-dessous. Je le rapelle, je fais un tour *rapide* des métiers du web.
 
@@ -18,11 +18,11 @@ L'intégrateur est la personne qui, sur base des fichiers graphiques du *webdesi
 
 ## Le développeur *front-end*
 
-Le développeur *front-end* s'occupe de ce qu'on appelle le **développement côté client**, qui consiste à ajouter de l'intéraction à un site, comme par exemple le contrôle de formulaire, des diaporamas, du contenu dynamique, etc... Le développeur front-end travaille main dans la main avec l'*intégrateur* et le *développeur back-end*, et son langage de prédilection est le `javascript`.
+Le développeur *front-end* s'occupe de ce qu'on appelle le **développement côté client**, qui consiste à ajouter de l'intéraction à un site, comme par exemple le contrôle de formulaire, des diaporamas, du contenu dynamique, etc… Le développeur front-end travaille main dans la main avec l'*intégrateur* et le *développeur back-end*, et son langage de prédilection est le **JavaScript**.
 
 ## Le développeur *back-end*
 
-Le développeur *back-end* est en charge du **développement côté serveur**, qui consiste dans les grandes lignes à rendre le site *administrable*, en lui se basant sur des bases de données, permettant ainsi à son contenu d'être éditable, commentable, et toutes sortes de choses en *-able* (pratiques généralement regroupées sous le nom de **CMS**, pour *Content Management System*). Le développeur back-end travaille activement avec le développeur front-end, et son langage de prédilection est le `PHP`, le `javascript`, le `ruby`, le `python` (pour les plus utilisés), et bien d'autres encore.
+Le développeur *back-end* est en charge du **développement côté serveur**, qui consiste dans les grandes lignes à rendre le site *administrable*, en lui se basant sur des bases de données, permettant ainsi à son contenu d'être éditable, commentable, et toutes sortes de choses en *-able* (pratiques généralement regroupées sous le nom de **CMS**, pour *Content Management System*). Le développeur back-end travaille activement avec le développeur front-end, et son langage de prédilection est le **PHP**, le **JavaScript**, le **Ruby**, le **Python** (pour les plus utilisés), et bien d'autres encore.
 
 ## Le *sysadmin*
 
@@ -34,7 +34,7 @@ Le chef de projet, comme son nom l'indique, est le **responsable** d'un projet w
 
 ## Le webmaster
 
-Terme un peu désuet et parfois péjoratif, qui a tendance a être remplacé par le terme de *gestionnaire de contenu*, le webmaster est en charge de la **maintenance** quotidienne du **contenu d'un site** : rédaction de news, d'articles…  
+Terme un peu désuet et parfois péjoratif, qui a tendance a être remplacé par le terme de *gestionnaire de contenu*, le webmaster est en charge de la **maintenance** quotidienne du **contenu d'un site** : rédaction de news, d'articles…  
 Dans certains cas, il est capable de modifier de petites parties du code, de manière à corriger des problèmes ponctuels en terme d'intégration ou de *front-end*.
 
 ## L'*e-writer*
