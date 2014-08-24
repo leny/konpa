@@ -10,8 +10,8 @@ Mais le mieux, c'est de le faire intelligement, car faire de la veille, c'est bi
 
 Il y a des tonnes de méthodes pour faire de la veille, garder un suivi des articles/sites qui sont à lire et relire, etc…
 
-Personnellement, je fonctionne avec [Reeder](http://reederapp.com/mac/), une application mac qui permet de consulter les flux RSS de mon compte ~~**Google Reader**~~ **Feedly**.  
-Quand je repère un article intéressant, je le lis et puis le marque d'une petite étoile.  
+Personnellement, je fonctionne avec [Reeder](http://reederapp.com/mac/), une application mac qui permet de consulter les flux RSS de mon compte ~~**Google Reader**~~ **Feedly**.
+Quand je repère un article intéressant, je le lis et puis le marque d'une petite étoile.
 Et quand je repère un article intéressant mais que je n'ai pas le temps de lire de suite, je le marque d'une étoile **et** l'envoi vers un service externe tel que [Readability](http://readability.com/) ou [Pocket](http://getpocket.com/) (avec une préférence personnelle pour le second).
 
 Ainsi, quand j'ai envie de souffler entre deux tâches, je regarde dans mon compte *Pocket* mes articles non-lus, et je rattrape mon retard.
