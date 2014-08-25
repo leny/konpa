@@ -10,7 +10,7 @@ Faisons rapidement un petit tour des métiers du web, histoire de se rappeller d
 
 ## Le webdesigner
 
-Le webdesigner est la personne qui va, à partir des infos du client, créer un **design** pour son site web. Métier essentiellement graphique, le webdesigner travaille sur des programmes tels que *Adobe Photoshop* et *Adobe Illustrator* (qui sont les plus utilisés dans le milieu, même s'il existe d'autres très bonnes, voire meilleures alternatives).
+Le webdesigner est la personne qui va, à partir des infos communiquées par le client, créer un **design** de site web. Métier essentiellement graphique, le webdesigner travaille sur des programmes tels que *Adobe Photoshop* et *Adobe Illustrator* (qui sont les plus utilisés dans le milieu, même s'il existe d'autres très bonnes voire meilleures alternatives).
 
 ## L'intégrateur
 
@@ -18,11 +18,11 @@ L'intégrateur est la personne qui, sur base des fichiers graphiques du *webdesi
 
 ## Le développeur *front-end*
 
-Le développeur *front-end* s'occupe de ce qu'on appelle le **développement côté client**, qui consiste à ajouter de l'intéraction à un site, comme par exemple le contrôle de formulaire, des diaporamas, du contenu dynamique, etc… Le développeur front-end travaille main dans la main avec l'*intégrateur* et le *développeur back-end*, et son langage de prédilection est le **JavaScript**.
+Le développeur *front-end* s'occupe de ce qu'on appelle le **développement côté client**, qui consiste à ajouter de l'intéraction à un site, comme par exemple le contrôle de formulaires, des diaporamas, du contenu dynamique, etc… Le développeur front-end travaille main dans la main avec l'*intégrateur* et le *développeur back-end*, et son langage de prédilection est le **JavaScript**.
 
 ## Le développeur *back-end*
 
-Le développeur *back-end* est en charge du **développement côté serveur**, qui consiste dans les grandes lignes à rendre le site *administrable*, en lui se basant sur des bases de données, permettant ainsi à son contenu d'être éditable, commentable, et toutes sortes de choses en *-able* (pratiques généralement regroupées sous le nom de **CMS**, pour *Content Management System*). Le développeur back-end travaille activement avec le développeur front-end, et son langage de prédilection est le **PHP**, le **JavaScript**, le **Ruby**, le **Python** (pour les plus utilisés), et bien d'autres encore.
+Le développeur *back-end* est en charge du **développement côté serveur**, qui consiste dans les grandes lignes à rendre le site *administrable*, en lui donnant accès à des bases de données, permettant ainsi à son contenu d'être éditable, commentable, et toutes sortes de choses en *-able* (pratiques généralement regroupées sous le nom de **CMS**, pour *Content Management System*). Le développeur back-end travaille activement avec le développeur front-end, et son langage de prédilection est le **PHP**, le **JavaScript**, le **Ruby**, le **Python** (pour les plus utilisés), et bien d'autres encore.
 
 ## Le *sysadmin*
 
@@ -39,7 +39,7 @@ Dans certains cas, il est capable de modifier de petites parties du code, de man
 
 ## L'*e-writer*
 
-Parfois apellé *rédacteur multimédia*, il est en charge de la **rédaction de contenus** qualibrés **pour le web**. Doté d'une solide formation littéraire, il est souvent nécéssaire sur des projets de sites plus statiques, ne nécéssitant peut de mises à jour (auquel cas son rôle se confonds avec celui du webmaster).
+Parfois apellé *rédacteur multimédia*, il est en charge de la **rédaction de contenus** qualibrés **pour le web**. Doté d'une solide formation littéraire, il est souvent nécéssaire sur des projets de sites plus statiques, ne nécéssitant que peu de mises à jour (auquel cas son rôle se confond avec celui du webmaster).
 
 ## Le community manager
 
@@ -47,7 +47,7 @@ Le community manager est un **animateur de communauté**. Maître dans l'art de 
 
 ## L'expert *SEO*
 
-L'expert *SEO*, pour *Search Engines Optimisation*, est en charge de l'optimation du site pour les moteurs de recherche. Il intervient généralement tout au long du processus, dispensant des conseils pratiques pour formater le code et le contenus afin de permettre une indexation optimale du site, et donc augmenter sa visiblité.
+L'expert *SEO*, pour *Search Engines Optimisation*, est en charge de l'optimation du site pour les moteurs de recherche. Il intervient généralement tout au long du processus, dispensant des conseils pratiques pour formater le code et le contenu afin de permettre une indexation optimale du site, et donc augmenter sa visiblité.
 
 ## L'*AdOp*
 
