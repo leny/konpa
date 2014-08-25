@@ -1,6 +1,6 @@
 # À propos de moi…
 
-Je m'appelle [Pierre-Antoine Delnatte](http://leny.me), je suis né en 1985, ce qui me fait entre ±29ans selon le moment où vous lisez ce truc.
+Je m'appelle [Pierre-Antoine Delnatte](http://leny.me), je suis né en 1985, ce qui me fait ±29ans selon le moment où vous lisez ce truc.
 Je suis développeur web, enfin, c'est comme ça que je me présente. En vérité, je suis un touche-à-tout, c'est ma *carrière* qui a fait ça.
 
 J'ai travaillé au Luxembourg (un peu), en Belgique (beaucoup), et en France (pas mal de temps). J'ai bossé en agence, des petites, et des moins petites. J'ai bossé dans le jeu vidéo, dans le web, j'ai commercialement sauvé des vies, enfin, c'est ce que je crois, ça m'aide à dormir.
