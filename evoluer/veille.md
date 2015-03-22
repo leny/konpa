@@ -2,7 +2,7 @@
 
 Vous avez déjà entendu parler de la *veille technologique*. On vous a bassiné avec ça tout au long de vos études. Et bien c'est pas fini, il faut continuer.
 
-Le web évolue tous les jours, et pendant que vous travaillez, d'autres développeurs font évoluer les languages, découvrent de nouvelles techniques et les partagent sur leurs blogs ou sur des sites tels que [Smashing Magazine](www.smashingmagazine.com), ou [Nettuts+](http://net.tutsplus.com), ou le célèbre [Hacker News](https://news.ycombinator.com).
+Le web évolue tous les jours, et pendant que vous travaillez, d'autres développeurs font évoluer les languages, découvrent de nouvelles techniques et les partagent sur leurs blogs ou sur des sites tels que [Smashing Magazine](http://www.smashingmagazine.com), ou [Nettuts+](http://net.tutsplus.com), ou le célèbre [Hacker News](https://news.ycombinator.com).
 
 Faire de la veille, c'est passer un peu de temps, idéalement chaque jour, pour regarder ce qui se dit et se fait ailleurs, et ainsi se maintenir à jour, découvrir de nouvelles techniques, ou de nouvelles façons plus performantes de pratiquer notre métier.
 
