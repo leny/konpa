@@ -2,11 +2,11 @@
 
 Sous ce néologisme un peu barbare se cachent des petits adages qui sont assez connus sous la forme d'acronymes comme KISS, YAGNI, DRY, etc.
 
-Ces adages sont principalement tirés de l'eXtreme Programming est méritent d'être respectés, non seulement pour votre efficacité et votre confort de travail, que pour celui des gens qui repasseront sur votre code.
+Ces adages sont principalement tirés de l'eXtreme Programming et méritent d'être respectés, non seulement pour votre efficacité et votre confort de travail, que pour celui des gens qui repasseront sur votre code.
 
 ## KISS: Keep It Simple, Stupid!
 
-Ou, si on veut se la pèter :
+Ou, si on veut se la péter :
 
 > *La simplicité est la sophistication suprême.*
 > — Leonardo Da Vinci
